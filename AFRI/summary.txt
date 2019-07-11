@@ -1,0 +1,21 @@
+Grant type: Postdoctoral, research. 
+Farm Bill focus: Plant health and production and plant products
+
+Relevance of project to EWD goals: supports AFRI goal #3 (Advancing Science), through post-doctoral education/training and advancing applied agricultural science.
+
+Description and postdoctoral program goals (gpdp):
+
+Traditional approaches to improving resistance in arabica coffees to leaf rust do not appear to be keeping pace with the evolution of new virulent strains. However, some evidence suggests microbiome-mediated resistance to the coffee rust is possible, through the acquisition of natural rust antagonists by coffee plants.
+
+Hypothesis: Forests act as sources of mutualistic microbes for the microbiomes of plants in surrounding agricultural systems. This ecosystem service of biocontrol diminishes with distance due to spore dispersal limitation. 
+
+We will sample fungal DNA and RNA from coffee tree leaves and spore traps, to track changes in microbiome composition and function with distance to forest edges and under varying rust loads. Culture efforts will accompany DNA sampling to retain potential antagonists to the coffee leaf rust. We will estimate gene expression changes both host and microbiome, using a novel bioinformatic approach. This multifaceted project will take place in an internationally renowned site of coffee-related research, with experienced collaborators (gpdp #2 and #4). Guidance on the varied molecular methods will be provided by mentor Tim James (gpdp #3). 
+
+Multiple quantifiable products are expected: a novel bioinformatic method, publically available sequence and culture libraries, and 3 scientific manuscripts. These products serve as benchmarks for evaluation of timely performance (gpdp #5). 
+
+
+
+
+
+
+
